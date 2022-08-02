@@ -23,8 +23,8 @@ a- Tek Oyunculu Oyun
     a3- Gemiler yerleştirildikten sonra görünürlüğü açılacak yazı-tura atılmak zorundadır.
     
     a4- Yazı - tura sonucunda başlanacak taraf ilk vuruş hakkına sahip olacaktır bu açıdan avantajlıdır. 
-    Oyun alanı içerisinde rakibinizin koyacağı yerleri tahmin ederek ona göre vuruş hakkınızı kullanmalısınız. 
-    Azıcıkta şansınız yaver gitmeli :)
+    Oyun alanı içerisinde rakibinizin koyacağı yerleri tahmin ederek ona göre vuruş 
+    hakkınızı kullanmalısınız. Azıcıkta şansınız yaver gitmeli :)
     
 b- İki Oyunculu Oyun
 
