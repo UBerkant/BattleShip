@@ -13,9 +13,9 @@ a- Tek Oyunculu Oyun
     
         a1.1- Alan boyutu seçim işlemi yapıldıktan sonra Tek Oyunculu butonuna basılmalıdır.
       
-    a2- Oyun başladıktan sonra ilk olarak oyun alanı içerisinde(3x3 oyun alanı için 2 gemi - 6x6 oyun alanı için 
-    8 gemi - 10x10 oyun alanı için 24 gemi) gemiler yerleştirilmelidir. (Her yerleştirme işlemi gerçekleştiğinde 
-    düşman oyuncu yani bilgisayar'ın gemileri için random sayı ile gemi yerleştirme işlemi yapılmakta.)
+    a2- Oyun başladıktan sonra ilk olarak oyun alanı içerisinde(3x3 oyun alanı için 2 gemi - 6x6 oyun alanı 
+    için 8 gemi - 10x10 oyun alanı için 24 gemi) gemiler yerleştirilmelidir. (Her yerleştirme işlemi 
+    gerçekleştiğinde düşman oyuncu yani bilgisayar'ın gemileri için random sayı ile gemi yerleştirme işlemi yapılmakta.)
     
         a2.1- Yerleştireceğiniz son geminiz filo komutanınız olacaktır o yüzden dikkat ediniz.
         
@@ -31,7 +31,8 @@ b- İki Oyunculu Oyun
 
     b1- İki oyunculu oyun butonuna tıklandıktan sonra açılacak form içerisinde aynı ağa bağlı iki bilgisayardan
     birisinin "Oyun Oluştur/Host the Game" butonu ile bir sunucu oluşturması gerekmektedir. Diğer oyuncu ise 
-    oyunu oluşturan bilgisayarın ip'sini yazarak oyuna katıl demelidir.(TCP ile bilgi alış-verişi sağlanmaktadır.)
+    oyunu oluşturan bilgisayarın ip'sini yazarak oyuna katıl demelidir.
+    (TCP ile bilgi alış-verişi sağlanmaktadır.)
     
     b2- Bağlantıların başarılı olma durumunda açılacak form ekranında Oyuncu 1 yani oyun sunucusunu kuran kişi 
     zar atmalıdır. Bu zar sonucuna göre ilk yerleştirme ve vurma hakkı kazanan oyuncuya verilecektir.
