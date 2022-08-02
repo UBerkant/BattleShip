@@ -13,12 +13,16 @@ a- Tek Oyunculu Oyun
     
         a1.1- Alan boyutu seçim işlemi yapıldıktan sonra Tek Oyunculu butonuna basılmalıdır.
       
-    a2- Oyun başladıktan sonra ilk olarak oyun alanı içerisinde(3x3 oyun alanı için 2 gemi - 6x6 oyun alanı için 8 gemi - 10x10 oyun alanı için 24 gemi) gemiler yerleştirilmelidir. (Her yerleştirme işlemi gerçekleştiğinde düşman oyuncu yani bilgisayar'ın gemileri için random sayı ile gemi yerleştirme işlemi yapılmakta.)
+    a2- Oyun başladıktan sonra ilk olarak oyun alanı içerisinde(3x3 oyun alanı için 2 gemi - 6x6 oyun alanı için 8 gemi - 
+    10x10 oyun alanı için 24 gemi) gemiler yerleştirilmelidir. (Her yerleştirme işlemi gerçekleştiğinde düşman oyuncu yani 
+    bilgisayar'ın gemileri için random sayı ile gemi yerleştirme işlemi yapılmakta.)
     
         a2.1- Yerleştireceğiniz son geminiz filo komutanınız olacaktır o yüzden dikkat ediniz.
         
     a3- Gemiler yerleştirildikten sonra görünürlüğü açılacak yazı-tura atılmak zorundadır.
     
-    a4- Yazı - tura sonucunda başlanacak taraf ilk vuruş hakkına sahip olacaktır bu açıdan avantajlıdır. Oyun alanı içerisinde rakibinizin koyacağı yerleri tahmin ederek ona göre vuruş hakkınızı kullanmalısınız. Azıcıkta şansınız yaver gitmeli :)
+    a4- Yazı - tura sonucunda başlanacak taraf ilk vuruş hakkına sahip olacaktır bu açıdan avantajlıdır. 
+    Oyun alanı içerisinde rakibinizin koyacağı yerleri tahmin ederek ona göre vuruş hakkınızı kullanmalısınız. 
+    Azıcıkta şansınız yaver gitmeli :)
     
 b- Çok Oyunculu Oyun
