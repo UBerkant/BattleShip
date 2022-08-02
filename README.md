@@ -1,4 +1,5 @@
 # BattleShip
+------------------------------------------------------ Amiral Battı Nedir? ------------------------------------------------------
 --------------------------------------------------------  Nasıl Oynanır?  --------------------------------------------------------
 
 1-Ana Menü üzerinde hangi tür oynamak istediğinize bağlı olarak Tek Oyunculu ve Çok Oyunculu butonlar bulunmakta.
