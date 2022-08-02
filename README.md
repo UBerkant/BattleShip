@@ -15,7 +15,8 @@ a- Tek Oyunculu Oyun
       
     a2- Oyun başladıktan sonra ilk olarak oyun alanı içerisinde(3x3 oyun alanı için 2 gemi - 6x6 oyun alanı 
     için 8 gemi - 10x10 oyun alanı için 24 gemi) gemiler yerleştirilmelidir. (Her yerleştirme işlemi 
-    gerçekleştiğinde düşman oyuncu yani bilgisayar'ın gemileri için random sayı ile gemi yerleştirme işlemi yapılmakta.)
+    gerçekleştiğinde düşman oyuncu yani bilgisayar'ın gemileri için random sayı ile gemi yerleştirme işlemi 
+    yapılmakta.)
     
         a2.1- Yerleştireceğiniz son geminiz filo komutanınız olacaktır o yüzden dikkat ediniz.
         
@@ -29,17 +30,17 @@ b- İki Oyunculu Oyun
 
    İki oyunculu oyunda farklı olarak alan boyut seçimi bulunmamaktadır. 5x5 alan içerisinde 10 gemi ile oynanmaktadır.
 
-    b1- İki oyunculu oyun butonuna tıklandıktan sonra açılacak form içerisinde aynı ağa bağlı iki bilgisayardan
-    birisinin "Oyun Oluştur/Host the Game" butonu ile bir sunucu oluşturması gerekmektedir. Diğer oyuncu ise 
-    oyunu oluşturan bilgisayarın ip'sini yazarak oyuna katıl demelidir.
+    b1- İki oyunculu oyun butonuna tıklandıktan sonra açılacak form içerisinde aynı ağa bağlı iki 
+    bilgisayardan birisinin "Oyun Oluştur/Host the Game" butonu ile bir sunucu oluşturması gerekmektedir.
+    Diğer oyuncu ise oyunu oluşturan bilgisayarın ip'sini yazarak oyuna katıl demelidir.
     (TCP ile bilgi alış-verişi sağlanmaktadır.)
     
-    b2- Bağlantıların başarılı olma durumunda açılacak form ekranında Oyuncu 1 yani oyun sunucusunu kuran kişi 
-    zar atmalıdır. Bu zar sonucuna göre ilk yerleştirme ve vurma hakkı kazanan oyuncuya verilecektir.
+    b2- Bağlantıların başarılı olma durumunda açılacak form ekranında Oyuncu 1 yani oyun sunucusunu kuran 
+    kişi zar atmalıdır. Bu zar sonucuna göre ilk yerleştirme ve vurma hakkı kazanan oyuncuya verilecektir.
     
     b3- Zar sonucunda kazanan oyuncu ilk olmak üzere kendi oyun alanlarına gemileri yerleştirme işlemleri
     sıra ile yapılmaktadır.
     
-    b4- Yerleştirme işlemleri bittikten sonra ise zar sonucunu kazanan oyuncu rakibinin alanında öncelik olarak 
-    filo komutanını nereye koyduğunu tahmin ederek vurmalıdır. Bu şekilde ilk filo komutanını vuran ya da 
-    rakibinin bütün gemilerini vuran oyuncu oyunu kazanmaktadır.
+    b4- Yerleştirme işlemleri bittikten sonra ise zar sonucunu kazanan oyuncu rakibinin alanında öncelik 
+    olarak filo komutanını nereye koyduğunu tahmin ederek vurmalıdır. Bu şekilde ilk filo komutanını
+    vuran ya da rakibinin bütün gemilerini vuran oyuncu oyunu kazanmaktadır.
