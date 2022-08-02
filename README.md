@@ -31,14 +31,14 @@ b- İki Oyunculu Oyun
 
     b1- İki oyunculu oyun butonuna tıklandıktan sonra açılacak form içerisinde aynı ağa bağlı iki bilgisayardan
     birisinin "Oyun Oluştur/Host the Game" butonu ile bir sunucu oluşturması gerekmektedir. Diğer oyuncu ise 
-    oyunu oluşturan bilgisayarın ip'sini yazarak oyuna katıl demelidir. (TCP ile bilgi alış-verişi sağlanmaktadır.)
+    oyunu oluşturan bilgisayarın ip'sini yazarak oyuna katıl demelidir.(TCP ile bilgi alış-verişi sağlanmaktadır.)
     
     b2- Bağlantıların başarılı olma durumunda açılacak form ekranında Oyuncu 1 yani oyun sunucusunu kuran kişi 
     zar atmalıdır. Bu zar sonucuna göre ilk yerleştirme ve vurma hakkı kazanan oyuncuya verilecektir.
     
-    b3- Zar sonucunda kazanan oyuncu ilk olmak üzere kendi oyun alanlarına gemileri yerleştirme işlemleri sıra ile 
-    yapılmaktadır.
+    b3- Zar sonucunda kazanan oyuncu ilk olmak üzere kendi oyun alanlarına gemileri yerleştirme işlemleri
+    sıra ile yapılmaktadır.
     
     b4- Yerleştirme işlemleri bittikten sonra ise zar sonucunu kazanan oyuncu rakibinin alanında öncelik olarak 
-    filo komutanını nereye koyduğunu tahmin ederek vurmalıdır. Bu şekilde ilk filo komutanını vuran ya da rakibinin 
-    bütün gemilerini vuran oyuncu oyunu kazanmaktadır.
+    filo komutanını nereye koyduğunu tahmin ederek vurmalıdır. Bu şekilde ilk filo komutanını vuran ya da 
+    rakibinin bütün gemilerini vuran oyuncu oyunu kazanmaktadır.
