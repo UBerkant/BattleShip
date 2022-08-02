@@ -48,10 +48,15 @@ b- İki Oyunculu Oyun
 -------------------------------------------------------- Proje Planı --------------------------------------------------------
 
 Proje Başlangıç Tarihi -> 04.07.2022
+
 Proje Bitiş Tarihi     -> 02.08.2022
+
 Dead Line              -> 04.08.2022
+
 Ana Fikir              -> Amiral Battı oyunu tasarlamak.
+
 Proje Hedefi           -> Tek ve iki oyunculu olmak üzere amiral battı oyununu tasarlamak. İki oyunculu versiyonu için, soket programlama ve TCP ile aynı ağ içerisindeki iki bilgisayarın haberleşmesini sağlamak.
+
 Projeyi farklı kılan detay -> Bütün gemiler 1x1 boyutunda olarak son yerleştirilen gemiler filo komutanı olarak düşünülmekte ve filo komutanı vurulduğu taktirde rakibin kaç gemisi kaldığı farketmeksizin oyunu kazanmakta.
 
 
