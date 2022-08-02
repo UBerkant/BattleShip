@@ -5,11 +5,20 @@ Amiral battı genel olarak 2 kişinin strateji çerçevesi içerisinde kendi oyu
 
 --------------------------------------------------------  Nasıl Oynanır?  --------------------------------------------------------
 
-1-Ana Menü üzerinde hangi tür oynamak istediğinize bağlı olarak Tek Oyunculu ve Çok Oyunculu butonlar bulunmakta.
+1- Ana Menü üzerinde hangi tür oynamak istediğinize bağlı olarak Tek Oyunculu ve Çok Oyunculu butonlar bulunmakta.
 
-a-Tek Oyunculu Oyun
+a- Tek Oyunculu Oyun
 
-    a1-Tek Oyunculu oyun oynanmak isteniyorsa, alan boyutlarından bir tanesi seçilmek zorundadır.
+    a1- Tek Oyunculu oyun oynanmak isteniyorsa, alan boyutlarından bir tanesi seçilmek zorundadır.
     
-      a1.1-Alan boyutu seçim işlemi yapıldıktan sonra Tek Oyunculu butonuna basılmalıdır.
-  a2-
+        a1.1- Alan boyutu seçim işlemi yapıldıktan sonra Tek Oyunculu butonuna basılmalıdır.
+      
+    a2- Oyun başladıktan sonra ilk olarak oyun alanı içerisinde(3x3 oyun alanı için 2 gemi - 6x6 oyun alanı için 8 gemi - 10x10 oyun alanı için 24 gemi) gemiler yerleştirilmelidir. (Her yerleştirme işlemi gerçekleştiğinde düşman oyuncu yani bilgisayar'ın gemileri için random sayı ile gemi yerleştirme işlemi yapılmakta.)
+    
+        a2.1- Yerleştireceğiniz son geminiz filo komutanınız olacaktır o yüzden dikkat ediniz.
+        
+    a3- Gemiler yerleştirildikten sonra görünürlüğü açılacak yazı-tura atılmak zorundadır.
+    
+    a4- Yazı - tura sonucunda başlanacak taraf ilk vuruş hakkına sahip olacaktır bu açıdan avantajlıdır. Oyun alanı içerisinde rakibinizin koyacağı yerleri tahmin ederek ona göre vuruş hakkınızı kullanmalısınız. Azıcıkta şansınız yaver gitmeli :)
+    
+b- Çok Oyunculu Oyun
