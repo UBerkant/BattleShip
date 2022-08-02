@@ -44,3 +44,5 @@ b- İki Oyunculu Oyun
     b4- Yerleştirme işlemleri bittikten sonra ise zar sonucunu kazanan oyuncu rakibinin alanında öncelik 
     olarak filo komutanını nereye koyduğunu tahmin ederek vurmalıdır. Bu şekilde ilk filo komutanını
     vuran ya da rakibinin bütün gemilerini vuran oyuncu oyunu kazanmaktadır.
+
+----------------------------------------------------- Proje Planı -----------------------------------------------------
