@@ -13,3 +13,19 @@ D:\Amiral Battı\AmiralBattı(Form)\AmiralBatti\AmiralBatti\obj\Debug\AmiralBatt
 D:\Amiral Battı\AmiralBattı(Form)\AmiralBatti\AmiralBatti\obj\Debug\AmiralBatti.ÇokOyunculu.form5.resources
 D:\Amiral Battı\AmiralBattı(Form)\AmiralBatti\AmiralBatti\obj\Debug\AmiralBatti.csprojAssemblyReference.cache
 D:\Amiral Battı\AmiralBattı(Form)\AmiralBatti\AmiralBatti\obj\Debug\AmiralBatti.csproj.CoreCompileInputs.cache
+D:\Github\BattleShip\AmiralBatti\AmiralBatti\bin\Debug\AmiralBatti.exe.config
+D:\Github\BattleShip\AmiralBatti\AmiralBatti\bin\Debug\AmiralBatti.exe
+D:\Github\BattleShip\AmiralBatti\AmiralBatti\bin\Debug\AmiralBatti.pdb
+D:\Github\BattleShip\AmiralBatti\AmiralBatti\obj\Debug\AmiralBatti.csproj.AssemblyReference.cache
+D:\Github\BattleShip\AmiralBatti\AmiralBatti\obj\Debug\AmiralBatti.csproj.SuggestedBindingRedirects.cache
+D:\Github\BattleShip\AmiralBatti\AmiralBatti\obj\Debug\AmiralBatti.MainMenu.resources
+D:\Github\BattleShip\AmiralBatti\AmiralBatti\obj\Debug\AmiralBatti.SmallArea.resources
+D:\Github\BattleShip\AmiralBatti\AmiralBatti\obj\Debug\AmiralBatti.MidArea.resources
+D:\Github\BattleShip\AmiralBatti\AmiralBatti\obj\Debug\AmiralBatti.LargeArea.resources
+D:\Github\BattleShip\AmiralBatti\AmiralBatti\obj\Debug\AmiralBatti.GamePlatform.resources
+D:\Github\BattleShip\AmiralBatti\AmiralBatti\obj\Debug\AmiralBatti.Properties.Resources.resources
+D:\Github\BattleShip\AmiralBatti\AmiralBatti\obj\Debug\AmiralBatti.CokOyunculu.Hosting.resources
+D:\Github\BattleShip\AmiralBatti\AmiralBatti\obj\Debug\AmiralBatti.csproj.GenerateResource.cache
+D:\Github\BattleShip\AmiralBatti\AmiralBatti\obj\Debug\AmiralBatti.csproj.CoreCompileInputs.cache
+D:\Github\BattleShip\AmiralBatti\AmiralBatti\obj\Debug\AmiralBatti.exe
+D:\Github\BattleShip\AmiralBatti\AmiralBatti\obj\Debug\AmiralBatti.pdb

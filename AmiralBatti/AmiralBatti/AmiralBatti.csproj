@@ -9,9 +9,10 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>AmiralBatti</RootNamespace>
     <AssemblyName>AmiralBatti</AssemblyName>
-    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -46,61 +47,61 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AnaMenü.cs">
+    <Compile Include="MainMenu.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="AnaMenü.Designer.cs">
-      <DependentUpon>AnaMenü.cs</DependentUpon>
+    <Compile Include="MainMenu.Designer.cs">
+      <DependentUpon>MainMenu.cs</DependentUpon>
     </Compile>
     <Compile Include="Properties\ResourcesBase.cs" />
     <Compile Include="Properties\ResourcesBase1.cs" />
     <Compile Include="Properties\ResourcesBaseBase.cs" />
-    <Compile Include="TekOyunculu\Form1.cs">
+    <Compile Include="TekOyunculu\SmallArea.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="TekOyunculu\Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="TekOyunculu\SmallArea.Designer.cs">
+      <DependentUpon>SmallArea.cs</DependentUpon>
     </Compile>
-    <Compile Include="TekOyunculu\Form2.cs">
+    <Compile Include="TekOyunculu\MidArea.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="TekOyunculu\Form2.Designer.cs">
-      <DependentUpon>Form2.cs</DependentUpon>
+    <Compile Include="TekOyunculu\MidArea.Designer.cs">
+      <DependentUpon>MidArea.cs</DependentUpon>
     </Compile>
-    <Compile Include="TekOyunculu\Form3.cs">
+    <Compile Include="TekOyunculu\LargeArea.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="TekOyunculu\Form3.Designer.cs">
-      <DependentUpon>Form3.cs</DependentUpon>
+    <Compile Include="TekOyunculu\LargeArea.Designer.cs">
+      <DependentUpon>LargeArea.cs</DependentUpon>
     </Compile>
-    <Compile Include="ÇokOyunculu\Form4.cs">
+    <Compile Include="CokOyunculu\GamePlatform.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="ÇokOyunculu\Form4.Designer.cs">
-      <DependentUpon>Form4.cs</DependentUpon>
+    <Compile Include="CokOyunculu\GamePlatform.Designer.cs">
+      <DependentUpon>GamePlatform.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="ÇokOyunculu\form5.cs">
+    <Compile Include="CokOyunculu\Hosting.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="ÇokOyunculu\form5.Designer.cs">
-      <DependentUpon>form5.cs</DependentUpon>
+    <Compile Include="CokOyunculu\Hosting.Designer.cs">
+      <DependentUpon>Hosting.cs</DependentUpon>
     </Compile>
-    <EmbeddedResource Include="AnaMenü.resx">
-      <DependentUpon>AnaMenü.cs</DependentUpon>
+    <EmbeddedResource Include="MainMenu.resx">
+      <DependentUpon>MainMenu.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="TekOyunculu\Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <EmbeddedResource Include="TekOyunculu\SmallArea.resx">
+      <DependentUpon>SmallArea.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="TekOyunculu\Form2.resx">
-      <DependentUpon>Form2.cs</DependentUpon>
+    <EmbeddedResource Include="TekOyunculu\MidArea.resx">
+      <DependentUpon>MidArea.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="TekOyunculu\Form3.resx">
-      <DependentUpon>Form3.cs</DependentUpon>
+    <EmbeddedResource Include="TekOyunculu\LargeArea.resx">
+      <DependentUpon>LargeArea.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="ÇokOyunculu\Form4.resx">
-      <DependentUpon>Form4.cs</DependentUpon>
+    <EmbeddedResource Include="CokOyunculu\GamePlatform.resx">
+      <DependentUpon>GamePlatform.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -112,8 +113,8 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
-    <EmbeddedResource Include="ÇokOyunculu\form5.resx">
-      <DependentUpon>form5.cs</DependentUpon>
+    <EmbeddedResource Include="CokOyunculu\Hosting.resx">
+      <DependentUpon>Hosting.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>

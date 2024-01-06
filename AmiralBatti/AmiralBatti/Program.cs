@@ -16,7 +16,7 @@ namespace AmiralBatti
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(true);
-            Application.Run(new AnaMenü());
+            Application.Run(new MainMenu());
         }
     }
 }
